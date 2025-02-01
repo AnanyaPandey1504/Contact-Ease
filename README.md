@@ -12,7 +12,7 @@ Access a detailed log of your call history, including the contact name, phone nu
 ## ***** Steps to set up app in your device *****
 # Option 1: Using Android Studio
 1) Clone the repository.
-   Write in terminal: git clone https://github.com/your-username/contacts-app.git
+   Write in terminal: git clone https://github.com/your-username/Contact-Ease.git
 2)Open the project in Android Studio.
 3)Build and run the app on your Android device.
 4)Run the app by enabling "Developer Options" in your mobile and turning on USB Debugging.Then run the app in your mobile.
